@@ -1,0 +1,22 @@
+{
+  "name": "commandlinewordguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soc33/commandLineWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soc33/commandLineWordGuess/issues"
+  },
+  "homepage": "https://github.com/soc33/commandLineWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
